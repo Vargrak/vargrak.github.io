@@ -21,7 +21,7 @@
 export PATH="/sbin:/bin:/usr/sbin:/usr/bin:/usr/games:/usr/local/sbin:/usr/local/bin:/root/bin"
 
 # Config
-vpnUser="transmission"
+vpnUser="qbittorrent"
 vpnDir="/usr/local/etc/openvpn"
 tempDir="/tmp/piaPort"
 curlMaxTime="15"
